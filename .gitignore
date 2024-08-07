@@ -2,7 +2,7 @@
 package/__pycache__/
 package/ble_utils/__pycache__/
 
-./qt_for_python/*
+./qt_for_python/uic/*
 
 .env
 *.tmp
